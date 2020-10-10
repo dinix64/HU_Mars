@@ -1,2 +1,2 @@
 # HU_mars
- A olane to be forked
+ A planet to be forked
